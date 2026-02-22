@@ -1,0 +1,4 @@
+Read the following text extracted from a CV and provide me output in structured format, without modifying anything (but only grammitical mistakes if any), so to process it further to match it with the Job description provided separately later.
+
+{CV_text}
+
