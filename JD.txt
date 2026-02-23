@@ -1,0 +1,69 @@
+The Lead Data Scientist is a critical, hands-on role at the heart of our platform's intelligence. You will be our senior expert on the "science" of conversational AI, responsible for researching, developing, and refining the core LLM-powered systems that our agents rely on.
+
+This is a "player-coach" role for a seasoned expert who is passionate about pushing the boundaries of what's possible with LLMs. You will lead our applied research and development efforts, establish new benchmarks for model performance, and pioneer novel techniques for agent-based systems.
+
+You will collaborate closely with Product and Engineering to translate your breakthroughs into tangible, production-ready features that define the next generation of our platform.
+
+What You'll Do :
+
+- Lead R&D projects to explore, prototype, and implement cutting-edge techniques in LLMs and conversational AI.
+
+- Focus areas include : advanced RAG strategies, model fine-tuning, agentic workflows, multi-agent orchestration, and prompt optimization.
+
+- Stay constantly apprised of the latest academic research (e.g., from ACL, NeurIPS, EMNLP) and apply relevant findings to our platform.
+
+- Design, build, and maintain a robust evaluation framework to rigorously benchmark our AI models and agent performance against internal and external standards.
+
+- Define key metrics for quality, accuracy, latency, cost, and safety.
+
+- Analyze model failure modes in-depth and develop strategies for continuous improvement.
+
+- Own the strategy for our model stack, including when to use proprietary models (e.g., GPT-4o, Claude 3), open-source models, or fine-tuned specialist models.
+
+- Conduct experiments and lead initiatives for fine-tuning or (P)EFT-tuning models for specific customer domains and tasks.
+
+- Act as the primary technical consultant to the Product team on AI/LLM capabilities, helping to define a feasible and ambitious product roadmap.
+
+- Partner with Engineering to develop MLOps pipelines for deploying, monitoring, and updating models and AI systems in production.
+
+- Provide deep technical guidance and mentorship to our Forward Deployed Engineering team on complex AI challenges.
+
+- Mentor junior data scientists and engineers on the team, fostering a culture of scientific rigor and innovation.
+
+- Act as ConvoZen AI's internal and external subject matter expert on data science for generative AI.
+
+Who You Are (Qualifications) :
+
+- Bachelors or MS or PhD in Computer Science, AI, NLP, Machine Learning, or a related quantitative field.
+
+- 7+ years of hands-on industry experience in data science, with at least 4+ years focused specifically on NLP and Machine Learning.
+
+- Demonstrable, deep, hands-on experience with the modern LLM stack.
+
+You must have :
+
+- Experience building and optimizing complex RAG (Retrieval-Augmented Generation) pipelines.
+
+- Practical experience with model fine-tuning (e.g., using Hugging Face, Axolotl) and parameter-efficient tuning (P)EFT techniques.
+
+- Deep understanding of agentic frameworks (e.g., LangChain, LlamaIndex) and the principles of tool use and multi-step reasoning.
+
+- A strong grasp of core NLP concepts, including transformers, embeddings, tokenization, and dialogue systems.
+
+- Expert-level proficiency in Python.
+
+- Deep experience with modern ML/NLP libraries (e.g., PyTorch, Hugging Face transformers, datasets, evaluate, LangChain).
+
+- Experience with vector databases (e.g., Pinecone, Weaviate, Milvus).
+
+- A proven ability to run structured experiments, work with ambiguity, and translate complex research into practical, high-impact solutions.
+
+Bonus Points :
+
+- A strong record of publications in top-tier AI, ML, or NLP conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL).
+
+- Experience building and deploying AI models in a production, low-latency environment (MLOps).
+
+- Experience with multi-modal models (text, image, audio).
+
+- Experience leading small project teams or mentoring junior data scientists.
